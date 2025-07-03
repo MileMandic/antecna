@@ -1,3 +1,4 @@
+cudno
 STAGE
 Poslije stage
 Novo nesto

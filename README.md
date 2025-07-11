@@ -1,3 +1,9 @@
+Jos nesto novo danas u petak
+cudno
+STAGE
+Poslije stage
+Novo nesto
+
 q
 
 fff

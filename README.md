@@ -1,3 +1,4 @@
+Jos nesto novo danas u petak
 cudno
 STAGE
 Poslije stage

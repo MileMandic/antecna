@@ -1,5 +1,6 @@
-Promjena na lokalu
 
+Promjena na lokalu
+Promjena na remote repo
 Nova izmjena u petak
 Jos nesto novo danas u petak
 cudno
